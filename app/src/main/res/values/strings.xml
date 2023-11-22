@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">JetGameApp</string>
+    <string name="header">GameApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_favorite">Favorite</string>
+    <string name="menu_about">About</string>
+    <string name="search_game">Search Games</string>
+    <string name="picture_profile">https://lh3.googleusercontent.com/a/ACg8ocI034KnhhfMlXY0MSYdNIvUfroYIFU91mx4hafml-YZag=s288-c-no</string>
+    <string name="profile">Foto Profil</string>
+    <string name="about">About Me</string>
+    <string name="my_name">Novallino Hamid Kiapmajaya</string>
+    <string name="my_email">novallinohmd@gmail.com</string>
+    <string name="my_univ">Universitas Negeri Jakarta</string>
+    <string name="empty_fav">No Favorite Game Yet</string>
+    <string name="back">Back</string>
+    <string name="category_list">Game List Menu</string>
+    <string name="add_favorite">Add Favorite</string>
+    <string name="btb_more">Find More Info</string>
+    <string name="publisher_photo">Publisher Photo</string>
+    <string name="publisher">Publisher</string>
+    <string name="Genre">Genre</string>
+    <string name="desc">Description</string>
+    <string name="banner">Banner</string>
+    <string name="award">Awards</string>
+</resources>
